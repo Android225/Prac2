@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Prac2</string>
+    <string name="FirstActivity">First</string>
+    <string name="SecondActivity">Second</string>
 </resources>
